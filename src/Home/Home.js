@@ -7,7 +7,8 @@ class Home extends Component {
       <div className="App">
         <header className="App-header">
           <h1>24 Hour Cal</h1>
-          <h3>React website and app coming soon!</h3>
+          <p>Website and React Web Application Coming Soon!</p>
+          <img width={300} height={400} mode='fit' alt="big-cal" src={require("../Images/redBackgroundCal.png")} />
         </header>
       </div>
     );
